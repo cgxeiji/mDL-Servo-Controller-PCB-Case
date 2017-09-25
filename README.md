@@ -6,6 +6,15 @@ Includes a 3D printable case.
 <img src="docs/case_front.png" height="200" /> <img src="docs/case_final.png" height="200" />
 
 ## How to use?
+### What you need:
+ - Solder Iron
+ - Solder Wire
+ - [Teensy 3.6](https://www.sparkfun.com/products/14057)
+ - [Adafruit's Servo Driver](https://www.adafruit.com/product/815)
+ - DC Power Plug
+ - Female / Male Pin Headers
+> This build assumes you know how to make a PCB.
+
 ### PCB
 1. Make the PCB with your prefered method.
 1. Solder `female headers` to the board if you want to be able to reuse the **Teensy** and **Adafruit's Servo Motor** modules.
