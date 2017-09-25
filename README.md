@@ -1,9 +1,9 @@
 # Servo Controller PCB w/Case
 
-<img src="docs/case_front.png" height="200" /> <img src="docs/case_final.png" height="200" />
-
 This PCB integrates a Teensy 3.6 with Adafruit's Servo Motor Controller, and a DC power input.
 Includes a 3D printable case.
+
+<img src="docs/case_front.png" height="200" /> <img src="docs/case_final.png" height="200" />
 
 ## How to use?
 ### PCB
