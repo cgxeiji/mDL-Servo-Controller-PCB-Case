@@ -1,5 +1,4 @@
-# my Design Lab
-## Servo Controller PCB w/Case
+# Servo Controller PCB w/Case
 
 <img src="docs/case_front.png" height="200" /> <img src="docs/case_final.png" height="200" />
 
@@ -21,3 +20,6 @@ Includes a 3D printable case.
 1. Fit the **PCB** inside the **case**.
 1. Close the **case** with the **lid**.
 1. Done!
+
+## About this project
+This project is part of the **Digital Fabrication** course at **KAIST**, South Korea.
