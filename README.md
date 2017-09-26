@@ -17,7 +17,7 @@ Includes a 3D printable case.
 
 ### PCB
 1. Make the PCB with your prefered method.
-1. Solder `female pin headers` to the board if you want to be able to reuse the **Teensy** and **Adafruit's Servo Motor** modules. (The PCB was designed considering female pin headers height)
+1. Solder `female pin headers` to the board if you want to be able to reuse the **Teensy** and **Adafruit's Servo Motor** modules. (The 3D Print Case was designed considering female pin headers height)
 1. Cut the **USB Power** connection from the **Teensy**.
 1. Solder `male pin headers` to the **modules** and a `DC power plug` to the **board**.
 1. `Attention!!!` Make sure to assemble the modules in the correct orientation.
